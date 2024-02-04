@@ -1,0 +1,7 @@
+D:\Дата\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Дата\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Дата\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Дата\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\Дата\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Дата\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Дата\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
